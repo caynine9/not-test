@@ -4,7 +4,7 @@ a Discord.py bot for me &amp; my friends' server.
 ## Installation 
 You must have Python and pip installed.
 
-* Run Terminal/CMD Prompt, change directory to cloned folder. Run `pip install -r requirements.txt`
+* Run Terminal/CMD Prompt, change directory to cloned repo folder. Run `pip install -r requirements.txt`
 
 Or
 
@@ -16,4 +16,4 @@ Or
 
 Or
 
-* Run Terminal/CMD Prompt, change directory to cloned folder. Run `python main.py`
+* Run Terminal/CMD Prompt, change directory to cloned repo folder. Run `python main.py`
